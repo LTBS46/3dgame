@@ -1,0 +1,7 @@
+C:/Users/bibi/Desktop/dev/3dgame/bin/CMakeFiles/edit_cache.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/CMakeFiles/rebuild_cache.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/src/CMakeFiles/game.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/src/CMakeFiles/edit_cache.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/src/CMakeFiles/rebuild_cache.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/include/CMakeFiles/edit_cache.dir
+C:/Users/bibi/Desktop/dev/3dgame/bin/include/CMakeFiles/rebuild_cache.dir

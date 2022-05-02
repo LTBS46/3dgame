@@ -1,0 +1,4 @@
+#pragma once
+
+#define VERSION_MAJOR @RandomCubeGame_VERSION_MAJOR@
+#define VERSION_MINOR @RandomCubeGame_VERSION_MINOR@
